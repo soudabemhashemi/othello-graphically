@@ -1,5 +1,5 @@
 # othello-graphically
-w -> Move up
+w -> Move up \n
 s -> Move down
 d -> Move right
 a -> Move left
